@@ -1,13 +1,11 @@
 <h1>Hi there, I'm Zarina👋</h1>
 <div>
-  <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/about_me.png" width="40"
-            height="40"> About me:</h2>
+  <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/about_me.png" width="40" height="40"> About me:</h2>
   <p>I'm a QA engineer testing desktop, mobile and web applications.</p>
 </div>  
 
 <div>
-  <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/soft_skills.png" width="40"
-            height="40"> Soft skills:</h2>
+  <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/soft_skills.png" width="40" height="40"> Soft skills:</h2>
   <ul>
 	<li>Attention to detail</li>
 	<li>Excellent communication and interpersonal skills</li>
@@ -17,8 +15,7 @@
   </ul>
 </div>  
 
-<h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/hard_skills.png" width="40"
-            height="40"> Hard skills:</h2>
+<h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/hard_skills.png" width="40" height="40"> Hard skills:</h2>
 
 ![Python](https://img.shields.io/badge/Python%20-%20%233776AB?style=for-the-badge&logo=Python&logoColor=white&label=%20)
 ![Adnroid Studio](https://img.shields.io/badge/Android%20Studio%20-%20%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&label=%20)
@@ -32,6 +29,10 @@
 ![Jira Software](https://img.shields.io/badge/Jira%20Software%20-%20%230052CC?style=for-the-badge&logo=jirasoftware&logoColor=white&label=%20)
 ![Figma](https://img.shields.io/badge/Figma%20-%20black?style=for-the-badge&logo=figma&logoColor=%23F24E1E&label=%20)
 
+<h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/contact_me.png" width="40" height="40"> You can reach me at:</h2>
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zarina_nz)
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:n_zarina@hotmail.com)
+  
 
 
