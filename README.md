@@ -32,7 +32,7 @@
 <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/contact_me.png" width="40" height="40"> You can reach me at:</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zarina_nz)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:n_zarina@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:n_zarina@hotmail.com)
   
 
 
