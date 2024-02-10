@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Zarina👋</h1>
 <div>
   <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/about_me.png" width="40" height="40"> About me:</h2>
-  <p>I'm a QA engineer testing desktop, mobile and web applications ✨</p>
+  <p>I'm a QA engineer testing web, desktop and mobile applications ✨</p>
 </div>  
 
 <div>
