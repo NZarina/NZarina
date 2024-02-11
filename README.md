@@ -18,6 +18,7 @@
 <h2><img src= "https://github.com/NZarina/NZarina/blob/main/stickers/hard_skills.png" width="40" height="40"> Hard skills:</h2>
 
 ![Python](https://img.shields.io/badge/Python%20-%20%233776AB?style=for-the-badge&logo=Python&logoColor=white&label=%20)
+![PyCharm](https://img.shields.io/badge/Pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Adnroid Studio](https://img.shields.io/badge/Android%20Studio%20-%20%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&label=%20)
 ![Charles](https://img.shields.io/badge/Charles%20-%20%2323add8e6?style=for-the-badge&logo=charles&label=%20)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%20%234479A1?style=for-the-badge&logo=MySQL&logoColor=white&label=%20)
